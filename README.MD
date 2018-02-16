@@ -6,12 +6,12 @@ Please refer to the OS6860 SW Manual for further details on usage.
 
 **Install**
 
-$ npm install --save ale-os6860-node
+`$ npm install --save ale-os6860-node`
 
 **Usage**
 
  
-let Switch = require('ale-os6860-node');
+```let Switch = require('ale-os6860-node');
 
 // instantiate the API
 let omniswitch = {};
@@ -54,4 +54,4 @@ function getMacTable(port) {
             reject("getMacTable " + err);
         })
     });
-}
+}```
