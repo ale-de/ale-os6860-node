@@ -1,4 +1,3 @@
-**ALE Rainbow SDK for Node.js**
 
 Welcome to the Alcatel-Lucent Enterprise OS6860 REST API node.
 This node allows to perform SNMP GET commands or CLI commands onto the OS6860 via its REST API.
