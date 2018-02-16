@@ -1,0 +1,28 @@
+{
+  "name": "ale-os6860-node",
+  "version": "0.0.1",
+  "description": "Node implementation of Alcatel-Lucent Enterprise OS6860 REST API",
+  "main": "lib/os6860.js",
+  "scripts": {
+    "version patch": "npm version patch --force -m 'Release %s'",
+    "version minor": "npm version minor --force -m 'Release %s'",
+    "version major": "npm version major --force -m 'Release %s'",
+    "push to git": "git push origin master --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ale-de/ale-os6860-node.git"
+  },
+  "keywords": [
+    "OS6860",
+    "ALE",
+    "Alcatel-Lucent",
+    "Enterprise"
+  ],
+  "author": "Dirk Evrard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ale-de/ale-os6860-node/issues"
+  },
+  "homepage": "https://github.com/ale-de/ale-os6860-node#readme"
+}
