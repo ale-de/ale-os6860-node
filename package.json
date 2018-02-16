@@ -1,6 +1,6 @@
 {
   "name": "ale-os6860-node",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Node implementation of Alcatel-Lucent Enterprise OS6860 REST API",
   "main": "lib/os6860.js",
   "scripts": {
